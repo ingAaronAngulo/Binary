@@ -1,0 +1,63 @@
+{
+	"menu":
+	{
+		"reloj": "Reloj",
+		"suma": "Sumatoria",
+		"conversor": "Conversor",
+		"ajustes": "Ajustes",
+		"normal": "Normal",
+		"survival": "Supervivencia",
+		"contrareloj": "Contrareloj",
+		"descripNormal" : "Has tantos puntos como puedas con 1 minuto de tiempo",
+		"descripSupervivencia" : "Iniciaras con 15 segundos de tiempo, al realizar una operacion obtendras 2 segundos extra",
+		"descripContraReloj" : "Tienes 4 segundos para realizar cada operacion"
+	},
+
+	"puntuaciones":
+	{
+		"mejorPuntuacion": "Mejor puntuacion: ",
+		"estaPartida": "Puntuacion en esta partida: "
+	},
+
+	"ajustes":
+	{
+		"borrar": "Borrar puntuaciones"
+	},
+
+	"juegos":
+	{
+		"comenzar": "Comenzar"
+	},
+	
+	"pausa":
+	{
+		"resumir": "Continuar",
+		"reiniciar": "Reiniciar",
+		"salir": "Volver al menu"
+	},
+
+	"tutoriales":
+	{
+		"siguiente" : "Sig.",
+		"cerrar" : "Cerrar",
+		"reloj1" : "Estas columnas representan las horas",
+		"reloj2" : "Y estas representan los minutos del reloj",
+		"reloj3" : "Los valores de las casillas estan asignados de esta forma",
+		"reloj4" : "Suma los valores de las casillas encendidas de cada columna para formar la respuesta correcta",
+		"sumatoria" : "Realiza una sumatoria utilizando los numeros de abajo, de modo que consigas el valor objetivo",
+		"conversor1" : "Estos son los valores de las casillas",
+		"conversor2" : "Realiza una sumatoria utilizando los valores de las casillas, de modo que consigas el valor objetivo",
+		"total" : "Total sumado",
+		"objetivo" : "Valor objetivo"
+	},
+
+	"aviso":
+	{
+		"tituloNoAds": "Importante",
+		"cuerpoNoAds": "Ten en cuenta que sin importar el precio que pagues, obtendras el mismo beneficio (desactivar la publicidad), por lo tanto, te pedimos que pagues lo que consideres justo",
+		"tituloAds": "Gracias",
+		"cuerpoAds": "Ya has desactivado la publicidad debido a tu compra",
+		"tituloFps": "Cuadros por segundo",
+		"cuerpoFps": "Teniendo menos cuadros por segundo (FPS), se reduciran los fotogramas que se despliegan en el juego, utiliza esta caracteristica si sientes que el juego no responde correctamente a tus acciones o si sientes que la velocidad de las animaciones varia, ademas, reduce el consumo de energia"
+	}
+}

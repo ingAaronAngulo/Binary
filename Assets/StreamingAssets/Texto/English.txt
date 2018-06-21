@@ -1,0 +1,63 @@
+{
+	"menu":
+	{
+		"reloj": "Watch",
+		"suma": "Sumatoria",
+		"conversor": "Converter",
+		"ajustes": "Settings",
+		"normal": "Normal",
+		"survival": "Survival",
+		"contrareloj": "Againts clock",
+		"descripNormal" : "Make as much points as you can with 1 minute of time",
+		"descripSupervivencia" : "You will iniziate with 15 seconds of time, when you accomplish an operation you will get 2 extra seconds",
+		"descripContraReloj" : "You have 4 seconds to accomplish every operation"
+	},
+
+	"puntuaciones":
+	{
+		"mejorPuntuacion": "High score: ",
+		"estaPartida": "Score: "
+	},
+
+	"ajustes":
+	{
+		"borrar": "Delete scores"
+	},
+
+	"juegos":
+	{
+		"comenzar": "Start"
+	},
+
+	"pausa":
+	{
+		"resumir": "Continue",
+		"reiniciar": "Reset",
+		"salir": "Back to the menu"
+	},
+
+	"tutoriales":
+	{
+		"siguiente" : "Next",
+		"cerrar" : "Close",
+		"reloj1" : "These columns represents the hours",
+		"reloj2" : "And these represents the minutes of a watch",
+		"reloj3" : "The values from the boxes are asigned like this",
+		"reloj4" : "Sum the values from the lighted boxes from every column to get the correct answer",
+		"sumatoria" : "Make a sumatoria using the numbers from below, so you get the objective value",
+		"conversor1" : "These are the values from the boxes",
+		"conversor2" : "Make a sumatoria using the values from the boxes, so you get the objective value",
+		"total" : "Total added",
+		"objectivo" : "Objective value"
+	},
+
+	"aviso":
+	{
+		"tituloNoAds": "Important",
+		"cuerpoNoAds": "Have in mind that whatever price you select, you will receive the same benefit (disable the publicity), so please, we want you to pay the price that you consider fair",
+		"tituloAds": "Thanks",
+		"cuerpoAds": "You already disabled the publicity due to your purchase",
+		"tituloFps": "Frames per second",
+		"cuerpoFps": "Having less frames per second (FPS), it will decrease the number of photograms that the game displays, use this feature if you feel that the game doesn't respond correctly to your actions or if you feel that the speed of the animations varies, plus, it reduces the amount of energy that consumes"
+	}
+}
